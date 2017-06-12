@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<pomVersion>3</pomVersion>
+	<name>lamcSelector</name>
+	<groupId>lamcSelector</groupId>
+	<id>lamcSelector</id>
+	<currentVersion>1.0</currentVersion>
+
+	<properties>
+		<deploy.type>war</deploy.type>
+	</properties>
+
+	<dependencies>
+	</dependencies>
+
+	<build>		
+	</build>
+
+</project>
